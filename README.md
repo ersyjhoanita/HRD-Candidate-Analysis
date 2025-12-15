@@ -65,6 +65,8 @@ Evaluasi:
 - Faktor utama attrition
 - Insight ringkas untuk HR
 
+  
+link dashboard
 network url: http://192.168.0.107:8501
 Local URL: http://localhost:8501 
 
