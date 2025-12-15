@@ -1,12 +1,12 @@
 # 📊 HRD Candidate Analysis – Employee Attrition
 
 ## 📌 Project Overview
-Project ini bertujuan untuk menganalisis dan memprediksi **employee attrition**
+Project ini bertujuan untuk menganalisis dan memprediksi **employee attrition ( pengurangan dan kinerja karyawan )**
 menggunakan data HR Analytics. Analisis dilakukan untuk membantu tim HR
 mengidentifikasi faktor risiko, meningkatkan retensi karyawan, dan mendukung
 pengambilan keputusan berbasis data.
 
-Project ini dirancang sebagai **portofolio Data Analyst / HR Analytics Intern**.
+Project ini dibuat sebagai latihan untuk ditambahkan **portofolio Data Analyst / HR Analytics Intern**.
 
 ## 🎯 Objectives
 - Mengidentifikasi faktor utama yang memengaruhi attrition
@@ -15,7 +15,8 @@ Project ini dirancang sebagai **portofolio Data Analyst / HR Analytics Intern**.
 - Menyajikan hasil analisis dalam bentuk visual & dashboard
 
 ## 🗂 Dataset
-- Sumber: IBM HR Analytics Employee Attrition Dataset (
+- Sumber: IBM HR Analytics Employee Attrition Dataset
+  ( https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset )
 - Target: `Attrition` (Yes / No)
 - Fitur: Demografi, kepuasan kerja, kompensasi, karier, dan lingkungan kerja
   
@@ -73,8 +74,6 @@ Local URL: http://localhost:8501
 - Kepuasan kerja dan work-life balance berpengaruh signifikan
 - Kompensasi rendah dan stagnasi karier memicu turnover
 - Hubungan dengan atasan meningkatkan retensi karyawan
-
----
 
 ## 🎯 Business Recommendation
 - Mengurangi lembur berlebihan
